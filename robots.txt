@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oustowfi.github.io/sitemap.oustowfi.gz
+Sitemap: https://oustowfi.github.io/app/sitemap.oustowfi.gz
+Sitemap: https://oustowfi.github.io/assets/sitemap.oustowfi.gz
+Sitemap: https://oustowfi.github.io/css/sitemap.oustowfi.gz
+Sitemap: https://oustowfi.github.io/data/sitemap.oustowfi.gz
+Sitemap: https://oustowfi.github.io/includes/sitemap.oustowfi.gz
+Sitemap: https://oustowfi.github.io/item/sitemap.oustowfi.gz
+Sitemap: https://oustowfi.github.io/src/sitemap.oustowfi.gz
